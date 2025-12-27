@@ -22,6 +22,7 @@ Google Cloud Translation API を使用して、日本語を英語に翻訳しま
 ---
 
 ## ディレクトリ構成
+```text
 translation-tool/
 ├─ public/
 │  └─ index.php
